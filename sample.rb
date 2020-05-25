@@ -1,5 +1,5 @@
 def hello
-  p "hello, Gitadd."
+  p "hello, GitHab."
 end
 
 hello
